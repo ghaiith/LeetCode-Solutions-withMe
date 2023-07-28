@@ -19,8 +19,3 @@ class Solution:
                 return [firstNumber,nums.index(secondNumber)+1]
         return []
 
-"""
-Runtime: 608 ms
-Memory: 17.3 MB
-
-"""

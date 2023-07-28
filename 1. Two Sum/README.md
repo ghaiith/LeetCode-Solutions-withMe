@@ -1,5 +1,5 @@
 # Two Sum
-
+### Easy
 Given an array of integers `nums` and an integer `target`, this function returns the indices of the two numbers in the array such that they add up to the given target.
 
 ## Example
