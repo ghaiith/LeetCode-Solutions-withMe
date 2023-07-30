@@ -1,3 +1,11 @@
+"""
+@Author : Ghaith Ahmed
+
+Runtime: 46 ms
+Memory: 16.4 MB
+
+"""
+
 from typing import List
 
 class Solution:
