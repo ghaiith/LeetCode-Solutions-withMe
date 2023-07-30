@@ -1,4 +1,4 @@
-# Longest Common Prefix Finder
+# 14. Longest Common Prefix
 
 ## Description
 
