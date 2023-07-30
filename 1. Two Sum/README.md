@@ -1,5 +1,7 @@
-# Two Sum
-### Easy
+# 1. Two Sum
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green.svg)
+
 Given an array of integers `nums` and an integer `target`, this function returns the indices of the two numbers in the array such that they add up to the given target.
 
 ## Example
